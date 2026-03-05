@@ -7,10 +7,11 @@ Click the image below to watch the system in action.
 
 [![ROS BCI Demo](https://img.youtube.com/vi/5liWwQx0vOA/hqdefault.jpg)](https://youtu.be/5liWwQx0vOA)
 
-<a href="https://youtu.be/5liWwQx0vOA" target="_blank">
-  <img src="https://img.youtube.com/vi/5liWwQx0vOA/hqdefault.jpg" alt="ROS BCI Demo">
-</a>
-
+<p align="center">
+  <a href="https://youtu.be/5liWwQx0vOA" target="_blank">
+    <img src="https://img.youtube.com/vi/5liWwQx0vOA/hqdefault.jpg" alt="ROS BCI Demo">
+  </a>
+</p>
 
 The aim of this project is to develop a generic BCI system that can help physically impaired patients to increase their degree of independency
 
