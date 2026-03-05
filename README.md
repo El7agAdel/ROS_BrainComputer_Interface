@@ -5,8 +5,6 @@
 
 Click the image below to watch the system in action.
 
-[![ROS BCI Demo](https://img.youtube.com/vi/5liWwQx0vOA/hqdefault.jpg)](https://youtu.be/5liWwQx0vOA)
-
 <p align="center">
   <a href="https://youtu.be/5liWwQx0vOA" target="_blank">
     <img src="https://img.youtube.com/vi/5liWwQx0vOA/hqdefault.jpg" alt="ROS BCI Demo">
