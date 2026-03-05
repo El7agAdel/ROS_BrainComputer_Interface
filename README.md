@@ -1,7 +1,11 @@
 # ROS_BCI
 
 
-[![IMAGE ALT TEXT HERE](https://youtu.be/5liWwQx0vOA)]([https://www.youtube.com](https://youtu.be/5liWwQx0vOA))
+# Project Demonstration
+
+Click the image below to watch the system in action.
+
+[![ROS BCI Demo](https://img.youtube.com/vi/5liWwQx0vOA/maxresdefault.jpg)](https://youtu.be/5liWwQx0vOA)
 
 
 
