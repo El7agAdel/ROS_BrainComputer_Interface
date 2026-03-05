@@ -1,5 +1,10 @@
 # ROS_BCI
 
+
+[![IMAGE ALT TEXT HERE](https://youtu.be/5liWwQx0vOA)]([https://www.youtube.com](https://youtu.be/5liWwQx0vOA))
+
+
+
 The aim of this project is to develop a generic BCI system that can help physically impaired patients to increase their degree of independency
 
 in this project an interface technique called steady state viusal envoked potentials was used (SSVEP)
